@@ -1,7 +1,7 @@
 ### Hi there, I'm Fabio Oliveira! 👋
 
-- Technology Lover
-- 💻 Android Engineer at [@PicPay](https://www.picpay.com/)
+- :computer: Technology Lover
+- :green_heart: Android Engineer at [@PicPay](https://www.picpay.com/)
 - :house: Living in Sao Paulo, Brazil
 - :house_with_garden: Born in Rio de Janeiro, Brazil
 
