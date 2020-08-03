@@ -11,5 +11,5 @@
 - :rocket: Improving my self everyday as a person and developer
 - :musical_note: Practing the drums and guitars
 
-### Find me :world 
+### Find me 🌎
 - [@Linkedin](https://www.linkedin.com/in/fabio91oliveira/)
