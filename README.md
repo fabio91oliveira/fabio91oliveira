@@ -8,7 +8,7 @@
 ### I'm currently working on :smiley:
 
 - 👨‍💻 Some personal app projects ... 
-- :rocket: Improving my self everyday as a person and developer
+- :rocket: Improving myself everyday as a person and developer
 - :musical_note: Practing the drums and guitars
 
 ### Find me 🌎
